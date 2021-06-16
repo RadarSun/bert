@@ -149,3 +149,9 @@ uncased_L-12_H-768_A-12/bert_model.ckpt.data-00000-of-00001
 uncased_L-12_H-768_A-12/bert_model.ckpt.index
 uncased_L-12_H-768_A-12/bert_model.ckpt.meta
 uncased_L-12_H-768_A-12/vocab.txt
+glue/glue_data/mrpc_output/eval.tf_record
+glue/glue_data/mrpc_output/eval/events.out.tfevents.1623808242.apples-MacBook-Pro.local
+glue/glue_data/mrpc_output/eval_results.txt
+glue/glue_data/mrpc_output/model.ckpt-343.data-00000-of-00001
+glue/glue_data/mrpc_output/model.ckpt-343.index
+glue/glue_data/mrpc_output/model.ckpt-343.meta
